@@ -1,0 +1,3 @@
+Title: Setup Instructions
+To install the Webhook Listener, run 'npm install webhook-cli'. Start the listener by executing
+'webhook-cli start --port 8080'. Ensure that port 8080 is open in your firewall rules.

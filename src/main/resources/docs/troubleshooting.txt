@@ -1,0 +1,3 @@
+Title: Troubleshooting Integration Issues
+If your integration with HubSpot keeps failing with a 401 Unauthorized error, please ensure that your API token has not expired.
+Tokens expire every 90 days. You can generate a new token in the Developer Portal under Settings -> API Keys.

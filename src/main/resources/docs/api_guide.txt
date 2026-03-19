@@ -1,0 +1,4 @@
+Title: API Usage Guidance
+To authenticate with the HubSpot API, you must include your Bearer token in the Authorization header.
+Rate limits are 100 requests per minute for the Basic plan and 500 requests per minute for the Premium plan.
+If you get a 429 error, you have hit the rate limit.
