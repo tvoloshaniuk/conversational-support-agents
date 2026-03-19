@@ -53,3 +53,6 @@ System Ready. Type your message (or 'exit' to quit).
 
 👤 You: The listener didn't work and I'm frustrated. I want to open a refund request for 50 dollars for user 404.
 ⚙️ [SYSTEM LOG] Agent B (Billing) returned: Refund ticket #10294 created for user 404 for $50.
+
+👤 You: Can you tell me the weather in London?
+🤖 Agent A (Tech): I am sorry, I can only answer questions about API usage, setup, troubleshooting, or help with billing and refunds. I cannot provide weather information.
